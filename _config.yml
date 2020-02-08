@@ -1,12 +1,12 @@
 # Site settings
-name: 董小姐
-location: 大连
-company: IBM
-position: Java开发工程师
-github: https://github.com/
-facebook: https://www.facebook.com/
-phone: 1580424XXXX
-email: xxxx@xxx.com
+name: zlonqi
+location: Guangzhou
+company: Wechat
+position: C/GO开发工程师
+github: https://github.com/zlonqi
+facebook: https://www.facebook.com/zlonqi
+phone: 13879502493
+email: zlonqi@163.com
 
 baseurl: "/zlonqi"
 
