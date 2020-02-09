@@ -1,8 +1,8 @@
 # Site settings
-name: zlonqi
-location: Guangzhou
-company: Wechat
-position: C/GO开发工程师
+name: 张珑脐
+location: 中国广州
+company: 华南理工大学,软件工程硕士
+position: CPP/GO 后台、高性能中间件
 github: https://github.com/zlonqi
 facebook: https://www.facebook.com/zlonqi
 phone: 13879502493
@@ -16,4 +16,3 @@ exclude: ['README.md']
 
 # Build settings
 markdown: kramdown
-
