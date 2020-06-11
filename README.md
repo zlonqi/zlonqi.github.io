@@ -1,3 +1,5 @@
+<iframe src="//player.bilibili.com/player.html?aid=70773634&bvid=BV19E411f7pN&cid=122620656&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
 # Funday -- 个人简历模板
 
 <a href='http://gitee.com/xiaodan_yu/resume.io/stargazers'><img src='http://gitee.com/xiaodan_yu/resume.io/badge/star.svg?theme=dark' alt='star'></img></a>
