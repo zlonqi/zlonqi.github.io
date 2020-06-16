@@ -31,6 +31,17 @@ title: cuplayer
 <!-- <div class="ace-nav-btm"></div> -->
 </div><!-- .ace-nav-wrap -->
 
+<div id="player"></div>
+<script src="//player.polyv.net/script/player.js"></script>
+<script>
+var player = polyvPlayer({
+wrap: '#player',
+width: 800,
+height: 533,
+vid: 'dc5e1398941c7283b0ebfc15bac6c663_d',
+});
+</script>
+
 <h2>个人项目</h2>
 
 <div class="video-container">
