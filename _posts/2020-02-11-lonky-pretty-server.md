@@ -30,7 +30,7 @@ title: cuplayer
 
 <!-- <div class="ace-nav-btm"></div> -->
 </div><!-- .ace-nav-wrap -->
-
+<h2>个人项目</h2>
 <div id="player"></div>
 <script src="//player.polyv.net/script/player.js"></script>
 <script>
@@ -41,12 +41,6 @@ height: 533,
 vid: 'dc5e1398941c7283b0ebfc15bac6c663_d',
 });
 </script>
-
-<h2>个人项目</h2>
-
-<div class="video-container">
-<iframe width="600" height="450" frameborder="0" allowfullscreen mozallowfullscreen webkitallowfullscreen src="//go.plvideo.cn/front/video/preview?vid=dc5e1398941c7283b0ebfc15bac6c663_d"> </iframe>
-</div>
 为了节约您的时间，建议1.2倍速观看
 
 <h2>备用源</h2>
