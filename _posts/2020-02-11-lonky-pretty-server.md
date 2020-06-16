@@ -33,7 +33,7 @@ title: test
 
 <h2>个人项目</h2>
 
-<iframe style='width: 600px;height: 338px' frameborder='no' allowfullscreen mozallowfullscreen webkitallowfullscreen src='http://go.plvideo.cn/front/video/preview?vid=dc5e1398941c7283b0ebfc15bac6c663_d'></iframe>
+<iframe width="600" height="450" frameborder="0" allowfullscreen mozallowfullscreen webkitallowfullscreen src="//go.plvideo.cn/front/video/preview?vid=dc5e1398941c7283b0ebfc15bac6c663_d"> </iframe>
 
 <div class="video-container">
 <iframe width="600" height="450"  src="//player.bilibili.com/player.html?aid=371030181&bvid=BV1EZ4y1H7jm&cid=202340215&page=1" frameborder="0"> </iframe>
