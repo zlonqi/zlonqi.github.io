@@ -1,6 +1,6 @@
 ---
 layout: default 
-title: test
+title: cuplayer
 ---
 
 <head>
@@ -36,10 +36,8 @@ title: test
 <iframe width="600" height="450" frameborder="0" allowfullscreen mozallowfullscreen webkitallowfullscreen src="//go.plvideo.cn/front/video/preview?vid=dc5e1398941c7283b0ebfc15bac6c663_d"> </iframe>
 </div>
 
-<h3>备用源</h3>
-<div class="video-container">
-<iframe width="600" height="450"  src="//player.bilibili.com/player.html?aid=371030181&bvid=BV1EZ4y1H7jm&cid=202340215&page=1" frameborder="0"> </iframe>
-</div>
+<h2>备用源</h2>
+<a href="https://zlonqi.gitee.io/2020/02/11/backup_source/"><img src="/zlonqi/styles/img/video1.png" alt=""><img src="/zlonqi/styles/img/video2.png" alt=""><img src="/zlonqi/styles/img/video3.png" alt=""></a>
 
 <!--<video id="video" controls="" preload="none">
     <source id="mp4" src="../../../../../zlonqi/styles/img/t.mp4" type="video/mp4">
