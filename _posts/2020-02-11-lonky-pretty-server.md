@@ -37,7 +37,7 @@ title: test
 </div> -->
 
 <video id="video" controls="" preload="none">
-    <source id="mp4" src="../../../../../styles/video/t.mp4" type="video/mp4">
+    <source id="mp4" src="../../../../../zlonqi/styles/video/t.mp4" type="video/mp4">
 </video>
 
 </div><!-- .ace-container -->
