@@ -32,6 +32,7 @@ title: cuplayer
 </div><!-- .ace-nav-wrap -->
 
 <h2>个人项目</h2>
+为了节约您的时间，建议1.2倍速观看
 <div class="video-container">
 <iframe width="600" height="450" frameborder="0" allowfullscreen mozallowfullscreen webkitallowfullscreen src="//go.plvideo.cn/front/video/preview?vid=dc5e1398941c7283b0ebfc15bac6c663_d"> </iframe>
 </div>
