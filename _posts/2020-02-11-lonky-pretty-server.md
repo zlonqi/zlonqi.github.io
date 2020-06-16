@@ -41,7 +41,9 @@ title: cuplayer
 <h2>备用源</h2>
 <a href="https://zlonqi.gitee.io/2020/02/11/backup_source/"><img src="/zlonqi/styles/img/video1.png" alt=""><img src="/zlonqi/styles/img/video2.png" alt=""><img src="/zlonqi/styles/img/video3.png" alt=""></a>
 
-<img src="/zlonqi/styles/img/wechart.png" alt="">
+<h2>wechat</h2>
+<img src="/zlonqi/styles/img/wechart.png">
+
 <!--<video id="video" controls="" preload="none">
     <source id="mp4" src="../../../../../zlonqi/styles/img/t.mp4" type="video/mp4">
 </video> -->
