@@ -36,11 +36,9 @@ title: test
 <iframe width="600" height="450"  src="//player.bilibili.com/player.html?aid=371030181&bvid=BV1EZ4y1H7jm&cid=202340215&page=1" frameborder="0"> </iframe>
 </div>
 
-<div class="video-container">
 <video id="video" controls="" preload="none">
-    <source id="mp4" src="../styles/video/t.mp4" type="video/mp4">
+    <source id="mp4" src="../../../../../styles/video/t.mp4" type="video/mp4">
 </video>
-</div>
 
 </div><!-- .ace-container -->
 </div><!-- #ace-content -->
