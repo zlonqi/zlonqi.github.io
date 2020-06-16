@@ -35,8 +35,9 @@ title: cuplayer
 
 <h2>备用源</h2>
 <div class="video-container">
-<iframe width="600" height="450"  src="//player.bilibili.com/player.html?aid=371030181&bvid=BV1EZ4y1H7jm&cid=202340215&page=1" frameborder="0"> </iframe>
+<iframe width="600" height="450" src="//player.bilibili.com/player.html?aid=413504752&bvid=BV1oV411r7di&cid=202708683&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 </div>
+
 
 <!--<video id="video" controls="" preload="none">
     <source id="mp4" src="../../../../../zlonqi/styles/img/t.mp4" type="video/mp4">
