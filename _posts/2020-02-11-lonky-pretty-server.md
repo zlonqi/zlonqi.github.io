@@ -38,10 +38,10 @@ var player = polyvPlayer({
 wrap: '#player',
 width: 800,
 height: 533,
-vid: 'dc5e1398941c7283b0ebfc15bac6c663_d',
+vid: 'dc5e13989467656e9a2f50a1c6a3cade_d',
 });
 </script>
-为了节约您的时间，建议1.2倍速观看
+为尽可能节约您的时间，视频篇幅有所删减，请见谅
 
 <h2>备用源</h2>
 <a href="https://zlonqi.gitee.io/2020/02/11/backup_source/"><img src="/zlonqi/styles/img/video1.png" alt=""><img src="/zlonqi/styles/img/video2.png" alt=""><img src="/zlonqi/styles/img/video3.png" alt=""></a>
