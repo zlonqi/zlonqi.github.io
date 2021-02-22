@@ -45,10 +45,17 @@
 
 
       <head>
+<meta charset="UTF-8" />
+    <link rel="stylesheet" href="./gifplayer.css" />
+    <style>
+        .gifplayer{
+            width: 300px;
+        }
+    </style><!--
 <style> 
 .video-container { position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0} 
 .video-container iframe { position: absolute; top:0; right: 0; width: 100%; height: 100%; float:right} 
-</style>
+</style>!-->
 </head>
 
 <div id="ace-content" class="ace-container-shift">
@@ -74,12 +81,16 @@
 <div id="player"></div>
 
 
-<img src="/zlonqi/styles/img/gif/demon.gif" alt="demon" />
-<img src="/zlonqi/styles/img/gif/websocketd.gif" alt="demon" />
-<img src="/zlonqi/styles/img/gif/reconnect.gif" alt="demon" />
-<img src="/zlonqi/styles/img/gif/tooltest.gif" alt="demon" />
-<img src="/zlonqi/styles/img/gif/detail.gif" alt="demon" />
-
+<img class="gifplayer" src="/zlonqi/styles/img/gif/demon.gif" alt="demon" />
+<img class="gifplayer" src="/zlonqi/styles/img/gif/websocketd.gif" alt="demon" />
+<img class="gifplayer" src="/zlonqi/styles/img/gif/reconnect.gif" alt="demon" />
+<img class="gifplayer" src="/zlonqi/styles/img/gif/tooltest.gif" alt="demon" />
+<img class="gifplayer" src="/zlonqi/styles/img/gif/detail.gif" alt="demon" />
+<script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+<script src="./jquery.gifplayer.js"></script>
+<script>
+      $('.gifplayer').gifplayer();
+</script>
 <h2>备用源</h2>
 <a href="https://zlonqi.gitee.io/2020/02/11/backup_source/"><img src="/zlonqi/styles/img/video1.png" alt="" /><img src="/zlonqi/styles/img/video2.png" alt="" /><img src="/zlonqi/styles/img/video3.png" alt="" /></a>
 
