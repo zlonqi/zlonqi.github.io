@@ -47,6 +47,8 @@
       <head>
 <meta charset="UTF-8" />
     <link rel="stylesheet" href="./gifplayer.css" />
+	<link rel="stylesheet" type="text/css" href="css/jquery.gif.css" />                
+	<script src="path/to/jquery.gif.min.js"></script>
     <style>
         .gifplayer{
             width: 600px;
@@ -81,7 +83,7 @@
 <div id="player"></div>
 
 
-<img class="gifplayer" src="/zlonqi/styles/img/gif/demon.gif" alt="demon" />
+<img class="gif" src="/zlonqi/styles/img/demon.jpg" data-gif="/zlonqi/styles/img/gif/demon.gif" alt="demon" />
 <img class="gifplayer" src="/zlonqi/styles/img/gif/websocketd.gif" alt="demon" />
 <img class="gifplayer" src="/zlonqi/styles/img/gif/reconnect.gif" alt="demon" />
 <img class="gifplayer" src="/zlonqi/styles/img/gif/tooltest.gif" alt="demon" />
@@ -91,6 +93,11 @@
 <script src="./jquery.gifplayer.js"></script>
 <script>
       $('.gifplayer').gifplayer();
+$( document ).ready(function() {      
+  $('.gif').each(function() {
+    $(this).gif();
+  });
+});
 </script>
 <h2>备用源</h2>
 <a href="https://zlonqi.gitee.io/2020/02/11/backup_source/"><img src="/zlonqi/styles/img/video1.png" alt="" /><img src="/zlonqi/styles/img/video2.png" alt="" /><img src="/zlonqi/styles/img/video3.png" alt="" /></a>
