@@ -45,13 +45,13 @@ vid: 'dc5e13989467656e9a2f50a1c6a3cade_d',
 
 <h2>GIF</h2>
 
-<a href="https://zlonqi.gitee.io/2021/02/22/note/"><img src="/zlonqi/styles/img/video3.png" alt=""></a>
+<a href="https://zlonqi.github.io/2021/02/22/note/"><img src="/styles/img/video3.png" alt=""></a>
 
 <h2>备用源</h2>
-<a href="https://zlonqi.gitee.io/2020/02/11/backup_source/"><img src="/zlonqi/styles/img/video1.png" alt=""><img src="/zlonqi/styles/img/video2.png" alt=""><img src="/zlonqi/styles/img/video3.png" alt=""></a>
+<a href="https://zlonqi.github.io/2020/02/11/backup_source/"><img src="/styles/img/video1.png" alt=""><img src="/styles/img/video2.png" alt=""><img src="/styles/img/video3.png" alt=""></a>
 
 <h2>wechat</h2>
-<img src="/zlonqi/styles/img/wechart.png" alt="扫一扫+微信">
+<img src="/styles/img/wechart.png" alt="扫一扫+微信">
 
 <!--<video id="video" controls="" preload="none">
     <source id="mp4" src="../../../../../zlonqi/styles/img/t.mp4" type="video/mp4">
