@@ -1,15 +1,8 @@
 # Site settings
-<<<<<<< HEAD
 name: longkyzhang
 location: canton.China
 company: T inc.
 position: software dev
-=======
-name: longky
-location: 中国大陆
-company: 腾讯 
-position: 服务端开发者
->>>>>>> 97ee18709845875fba22fe9bbcd42bb32def9958
 github: https://github.com/zlonqi
 facebook: 
 phone: 匿
