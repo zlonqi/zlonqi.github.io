@@ -43,6 +43,7 @@ var player = polyvPlayer({
                 'vid': 'dc5e139894ab4cafe10fbbaaa670aa83_d',
                   'playsafe': '' // 播放加密视频的凭证, 取值参考文档: https://help.polyv.net/index.html#/vod/api/playsafe/token/create_token 
                   });
+player.volume(0);
 </script>
 视频篇幅有所删减
 
