@@ -1,11 +1,11 @@
 # Site settings
-name: longkyzhang
-location: Canton.China
-company: Tech inc.
-position: Software Dev
+name: 张珑脐
+location: China
+company: longqi
+position: R&D
 github: https://github.com/zlonqi
-facebook: 
-phone: 匿
+twitter: https://www.yuque.com/longky
+phone: stand2win
 email: zlonqi@163.com
 
 baseurl: ""
